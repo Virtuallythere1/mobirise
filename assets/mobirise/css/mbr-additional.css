@@ -2,7 +2,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -514,6 +513,9 @@ a:hover {
 }
 .hamburger-icon:after {
   background-color: #06b0c9;
+}
+#tabs1-1 {
+  
 }
 #tabs1-1 P {
   font-family: 'Open Sans', sans-serif;

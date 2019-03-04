@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-02_0917",
+    "name": "Med Job Reviews",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -29,8 +29,10 @@
     "versionFirst": "4.9.4",
     "siteFonts": [],
     "uniqCompNum": 15,
-    "versionPublish": "4.9.4",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.9.5",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -145,13 +147,11 @@
           ],
           "_name": "tabs1",
           "_anchor": "tabs1-1",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "30px"
-            }
-          }
+          "_customHTML": "<section class=\"mbr-section mbr-section--bg-adapted mbr-section--relative tabs1\" data-rv-view=\"0\" style=\"background-color: rgb(250, 250, 250); padding-top: 100px; padding-bottom: 100px;\">\n    <div class=\"elements-content\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n\n                    <div class=\"clearfix\"></div>\n                    <ul class=\"nav nav-tabs mbr-editable-content\" role=\"tablist\" code-editable-id=\"4\"><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1tabs1-1\" aria-expanded=\"true\">Reviews</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2tabs1-1\" aria-expanded=\"false\">Jobs</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3tabs1-1\" aria-expanded=\"false\">Join</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4tabs1-1\">Debit card</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5tabs1-1\">Withdraw</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6tabs1-1\">Add funds</a></li></ul>\n\n                    <div class=\"tab-content noScroll\">\n                        <div id=\"tab1tabs1-1\" class=\"tab-pane in active\" role=\"tabpanel\">\n                            <div class=\"row\">\n                                <div class=\"col-md-6\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/real-medical-job-reviews-600x338.jpg\"></div>\n                                </div>\n                                <div class=\"col-md-6 content\">\n                                    <div class=\"wraper\">\n                                        \n                                        <p class=\"mbr-editable-content\" code-editable-id=\"5\">Real Physicians. <br> Real Reviews.<br>Get an Insider Look.</p>\n                                        \n                                        <div class=\"text-sm-left\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"6\">Company Reviews</a></div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab2tabs1-1\" class=\"tab-pane\" role=\"tabpanel\">\n                            <div class=\"row\">\n                                <div class=\"col-md-6\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/phenominal-medical-companies-600x398.jpg\"></div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <div class=\"wraper\">\n                                        \n                                        <p class=\"mbr-editable-content\" code-editable-id=\"7\">Amazing Career Opportunities.<br><br><strong>Phenomenal Companies.</strong></p>\n                                        \n                                        <div class=\"text-sm-left\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"8\">Curated Jobs</a></div>\n                                    </div>     \n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab3tabs1-1\" class=\"tab-pane\" role=\"tabpanel\">\n                            <div class=\"row\">\n                                <div class=\"col-md-6\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/medical-community-600x400.jpg\"></div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <div class=\"wraper\">\n                                        \n                                        <p class=\"mbr-editable-content\" code-editable-id=\"9\">Join the Community.<br><br><strong>Stay Empowered.</strong></p>\n                                        \n                                        <div class=\"text-sm-left\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"10\">Join Today - It's FREE</a></div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab4tabs1-1\" class=\"tab-pane\" role=\"tabpanel\">\n                            <div class=\"row\">\n                                <div class=\"col-md-6\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/card.png\"></div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <div class=\"wraper\">\n                                        \n                                        <p class=\"mbr-editable-content\" code-editable-id=\"11\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                        \n                                        <div class=\"text-sm-left\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"12\">Get free trial</a></div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab5tabs1-1\" class=\"tab-pane\" role=\"tabpanel\">\n                            <div class=\"row\">\n                                <div class=\"col-md-6\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/card2.png\"></div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <div class=\"wraper\">\n                                        \n                                        <p class=\"mbr-editable-content\" code-editable-id=\"13\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                        \n                                        <div class=\"text-sm-left\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"14\">Get free trial</a></div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n\n                        <div id=\"tab6tabs1-1\" class=\"tab-pane\" role=\"tabpanel\">\n                            <div class=\"row\">\n                                <div class=\"col-md-6\">\n                                    <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/card3.png\"></div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <div class=\"wraper\">\n                                        \n                                        <p class=\"mbr-editable-content\" code-editable-id=\"15\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.</p>\n                                        \n                                        <div class=\"text-sm-left\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"16\">Get free trial</a></div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\nP {\n  font-family: 'Open Sans', sans-serif;\n  font-size: 30px;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -312,116 +312,6 @@
               "font-size": "30px"
             }
           }
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": true,
-            "spacing": "5",
-            "paddingTop": 4,
-            "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/career-1000x667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/career-1000x667-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/relationships-1000x667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/relationships-1000x667-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-b"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "3",
-            "paddingTop": "0",
-            "paddingBottom": 4,
-            "filterBgColor": false,
-            "bgColor": "#fff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/coaching-1000x655.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coaching-1000x655-800x524.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/vitality-1000x444.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/vitality-1000x444-800x355.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/leadership-1000x667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/leadership-1000x667-800x534.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-c"
         },
         {
           "_params": {
