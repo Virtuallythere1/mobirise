@@ -20,13 +20,15 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#06b0c9"
+        "#06b0c9",
+        "#fafafa",
+        "#dc4c35"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 5,
+    "uniqCompNum": 9,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -53,7 +55,7 @@
             "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#fafafa",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -147,7 +149,7 @@
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "24px"
+              "font-size": "30px"
             }
           }
         },
@@ -258,6 +260,61 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": 30,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#fafafa",
+            "containerColor2": "#06b0c9",
+            "containerColor3": "#06b0c9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/shutterstock-618079880-500x334.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Intro with Media",
+          "text": "<b>\" MedJobReviews gives me an inside look of what it’s like to work with a company. That’s priceless.\"</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-8",
+          "_styles": {
+            "B": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
             "token": "",
             "showTitle": true,
             "layoutGridRadio": true,
@@ -290,6 +347,27 @@
           "_anchor": "instagram-feed-block-4"
         }
       ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Employers",
+        "order": 1
+      },
+      "components": []
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Coaching",
+        "order": 2
+      },
+      "components": []
+    },
+    "page3.html": {
+      "settings": {
+        "title": "About",
+        "order": 3
+      },
+      "components": []
     }
   }
 }
